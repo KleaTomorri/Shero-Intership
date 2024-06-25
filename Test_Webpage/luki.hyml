@@ -1,0 +1,93 @@
+<nav class="navbar">
+        <div class="navbar">
+            <ul class="navbar">
+                <li><img src="" alt="Logo"></li>
+                <li>
+                    <h3>PainfulPleasures</h3>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <ul class="navbar">
+                <li><a href="#">Body-Jewelry</a></li>
+                <li><a href="#">Piercing</a></li>
+                <li><a href="#">Tattoo</a></li>
+                <li><a href="#">Medical</a></li>
+                <li><a href="#">Studio</a></li>
+                <li><a href="#">Permanent Makeup</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="flex">
+        <div>
+            <img src="" alt="foto1">
+
+        </div>
+        <div>
+            <img src="" alt="foto2">
+            <img src="" alt="foto3">
+        </div>
+    </div>
+    
+    <section>
+        <h3>FROM OUR COMMUNITY</h3>
+        <div class="flex">
+            <div>
+                <img src="" alt="Blog1">
+                <p>June 10, 2020</p>
+                <h5>On Hard Work and Evolution with Tattoo <br> Automn Hudson</h5>
+            </div>
+            <div>
+                <img src="" alt="Blog1">
+                <p>June 10, 2020</p>
+                <h5>On Hard Work and Evolution with Tattoo <br> Automn Hudson</h5>
+            </div>
+            <div>
+                <img src="" alt="Blog1">
+                <p>June 10, 2020</p>
+                <h5>On Hard Work and Evolution with Tattoo <br> Artist Automn Hudson</h5>
+            </div>
+
+        </div>
+        <button>See all blog posts</button>
+    </section>
+    <section>
+        <h2>NEW PRODUCTS</h2>
+        <div class="flex">
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+            <div>
+                <img src="" alt="produkti 1">
+                <h5>$ 499.99</h5>
+                <p>Rook Quill Rottary</p>
+            </div>
+        </div>
+    </section>
